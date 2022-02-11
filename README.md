@@ -16,14 +16,30 @@ If you wish, you can find me on these platforms:
 •	Mail: segunzacheusi@gmail.com
 
 
-<br />
+
 ### Technologies and Tools:
 
 
-![html](https://user-images.githubusercontent.com/64446063/153522065-986b73bf-51b8-434f-9206-0935e9f54138.png)
+<!--![html](https://user-images.githubusercontent.com/64446063/153522065-986b73bf-51b8-434f-9206-0935e9f54138.png)
+![react](https://user-images.githubusercontent.com/64446063/153524023-88e33833-278a-4790-a619-b36ea3ca6708.png)
+![sass](https://user-images.githubusercontent.com/64446063/153524026-65759487-3bab-437e-a425-abf8a9a06dde.png)
+![bootstrap](https://user-images.githubusercontent.com/64446063/153524029-d13202a6-fe6b-49b5-92e9-639c60be3bad.png)
+![git](https://user-images.githubusercontent.com/64446063/153524031-62742242-61ba-460d-8ed4-7439523a4315.png)
+![visual-studio-code](https://user-images.githubusercontent.com/64446063/153524032-cbc5be40-dd28-415c-8934-5db1a8779bb9.png)
+![python](https://user-images.githubusercontent.com/64446063/153524035-c36c4916-180e-409d-80f5-0774f9bf9c04.png)
+![css](https://user-images.githubusercontent.com/64446063/153524036-ccd5e73a-a173-42b7-a7d0-74fbf7312d4a.png)
+![javascript](https://user-images.githubusercontent.com/64446063/153524037-72f4207b-5114-4f2f-82c8-059b0ff91cd2.png)
+-->
 
+<img src="https://user-images.githubusercontent.com/64446063/153522065-986b73bf-51b8-434f-9206-0935e9f54138.png" alt="my banner" height="60"><img src="https://user-images.githubusercontent.com/64446063/153524036-ccd5e73a-a173-42b7-a7d0-74fbf7312d4a.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524037-72f4207b-5114-4f2f-82c8-059b0ff91cd2.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524023-88e33833-278a-4790-a619-b36ea3ca6708.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524026-65759487-3bab-437e-a425-abf8a9a06dde.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524029-d13202a6-fe6b-49b5-92e9-639c60be3bad.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524031-62742242-61ba-460d-8ed4-7439523a4315.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524032-cbc5be40-dd28-415c-8934-5db1a8779bb9.png" alt="my banner" height="60">
+<img src="https://user-images.githubusercontent.com/64446063/153524035-c36c4916-180e-409d-80f5-0774f9bf9c04.png" alt="my banner" height="60">
 
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
 
 
 
