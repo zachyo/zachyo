@@ -3,6 +3,7 @@ I am Oluwasegun Zacheus, but you can call me lunarBoy:zap:. I am a front-end Sof
 
 I'm also a Blockchain enthusiast who is working towards building a career in the web3 ecosystem. I am ready to undergo training to help me acheive my goals.
 
+<br />
 
 ### 🤝 Let's Connect
 If you wish, you can find me on these platforms:
@@ -15,7 +16,7 @@ If you wish, you can find me on these platforms:
 
 •	Mail: segunzacheusi@gmail.com
 
-
+<br />
 
 ### Technologies and Tools:
 
@@ -30,6 +31,7 @@ If you wish, you can find me on these platforms:
 ![css](https://user-images.githubusercontent.com/64446063/153524036-ccd5e73a-a173-42b7-a7d0-74fbf7312d4a.png)
 ![javascript](https://user-images.githubusercontent.com/64446063/153524037-72f4207b-5114-4f2f-82c8-059b0ff91cd2.png)
 -->
+
 
 <img src="https://user-images.githubusercontent.com/64446063/153522065-986b73bf-51b8-434f-9206-0935e9f54138.png" alt="my banner" height="50"><img src="https://user-images.githubusercontent.com/64446063/153524036-ccd5e73a-a173-42b7-a7d0-74fbf7312d4a.png" alt="my banner" height="50">
 <img src="https://user-images.githubusercontent.com/64446063/153524037-72f4207b-5114-4f2f-82c8-059b0ff91cd2.png" alt="my banner" height="50">
