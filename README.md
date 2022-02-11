@@ -6,10 +6,11 @@ I'm also a Blockchain enthusiast who is working towards building a career in the
 
 ### 🤝 Let's Connect
 
-You can find me on these platforms:
+If you wish, you can find me on these platforms:
 
 
-[LinkedIn] : (linkedin.com/in/zacheus-oluwasegun-08890314b)
+[LinkedIn](linkedin.com/in/zacheus-oluwasegun-08890314b)
+
 Twitter: @zachy_yo
 
 Mail: segunzacheusi@gmail.com
