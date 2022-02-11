@@ -1,3 +1,7 @@
+<!-- -->
+
+<img src="https://user-images.githubusercontent.com/64446063/153527659-0ed6b915-b3ec-4580-bde7-5e416f9c24b9.jpeg" alt="my banner" height="350" width="1100">
+
 ### Hello there 👋,
 I am Oluwasegun Zacheus, but you can call me lunarBoy:zap:. I am a front-end Software Engineer interning at Altschool and based in Lagos State, Nigeria 🇳🇬; specializing in building nice and scalable web apps using React Js and SASS.
 
@@ -10,11 +14,11 @@ If you wish, you can find me on these platforms:
 
 
 
-•	LinkedIn :  <a href="https://www.linkedin.com/mwlite/in/zacheus-oluwasegun-08890314b" target=”_blank” rel=”noreferrer”>linkedin.com/in/zacheus-oluwasegun</a>
+   •	LinkedIn :  <a href="https://www.linkedin.com/mwlite/in/zacheus-oluwasegun-08890314b" target=”_blank” rel=”noreferrer”>linkedin.com/in/zacheus-oluwasegun</a>
 
-•	Twitter : <a href="https://twitter.com/zachy_yo?t=ga8UmyuQ-LCCvLS_nWh1sg&s=09" target=”_blank” rel=”noreferrer”>@zachy_yo</a>
+   •	Twitter : <a href="https://twitter.com/zachy_yo?t=ga8UmyuQ-LCCvLS_nWh1sg&s=09" target=”_blank” rel=”noreferrer”>@zachy_yo</a>
 
-•	Mail: segunzacheusi@gmail.com
+   •	Mail: segunzacheusi@gmail.com
 
 <br />
 
@@ -59,6 +63,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🤝 Let's Connect 
+- 🤝 Let's Connect ![banner](https://user-images.githubusercontent.com/64446063/153527659-0ed6b915-b3ec-4580-bde7-5e416f9c24b9.jpeg)
+
 
 -->
