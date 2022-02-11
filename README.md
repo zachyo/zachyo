@@ -9,9 +9,9 @@ I'm also a Blockchain enthusiast who is working towards building a career in the
 If you wish, you can find me on these platforms:
 
 
-[LinkedIn](linkedin.com/in/zacheus-oluwasegun-08890314b)
+LinkedIn :  <a href="https://www.linkedin.com/mwlite/in/zacheus-oluwasegun-08890314b" target=”_blank” rel=”noreferrer”>linkedin.com/in/zacheus-oluwasegun</a>
 
-Twitter: @zachy_yo
+Twitter : <a href="https://twitter.com/zachy_yo?t=ga8UmyuQ-LCCvLS_nWh1sg&s=09" target=”_blank” rel=”noreferrer”>@zachy_yo</a>
 
 Mail: segunzacheusi@gmail.com
 
