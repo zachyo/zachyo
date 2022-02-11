@@ -1,6 +1,6 @@
 <!-- -->
 
-<img src="https://user-images.githubusercontent.com/64446063/153527659-0ed6b915-b3ec-4580-bde7-5e416f9c24b9.jpeg" alt="my banner" height="350" width="1100">
+<img src="https://user-images.githubusercontent.com/64446063/153527659-0ed6b915-b3ec-4580-bde7-5e416f9c24b9.jpeg" alt="my banner" height="300" width="1100">
 
 ### Hello there 👋,
 I am Oluwasegun Zacheus, but you can call me lunarBoy:zap:. I am a front-end Software Engineer interning at Altschool and based in Lagos State, Nigeria 🇳🇬; specializing in building nice and scalable web apps using React Js and SASS.
