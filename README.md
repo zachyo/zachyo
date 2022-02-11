@@ -1,10 +1,10 @@
-### Hi there 👋
-I am Oluwasegun Zacheus, but you can call me lunarBoy:zap::zap:. I am a front-end Software Engineer interning at Altschool and based in Lagos State, Nigeria 🇳🇬; specializing in building nice and scalable web apps using React Js and SASS.
+### Hello there 👋,
+I am Oluwasegun Zacheus, but you can call me lunarBoy:zap:. I am a front-end Software Engineer interning at Altschool and based in Lagos State, Nigeria 🇳🇬; specializing in building nice and scalable web apps using React Js and SASS.
 
 I'm also a Blockchain enthusiast who is working towards building a career in the web3 ecosystem. I am ready to undergo training to help me acheive my goals.
 
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect <br />
 If you wish, you can find me on these platforms:
 
 
