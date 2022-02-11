@@ -5,7 +5,7 @@ I'm also a Blockchain enthusiast who is working towards building a career in the
 
 <br />
 
-### 🤝 Let's Connect
+### Let's Connect 🤝
 If you wish, you can find me on these platforms:
 
 
@@ -18,7 +18,7 @@ If you wish, you can find me on these platforms:
 
 <br />
 
-### Technologies and Tools:
+### Technologies and Tools 🖥️💡:
 
 
 <!--![html](https://user-images.githubusercontent.com/64446063/153522065-986b73bf-51b8-434f-9206-0935e9f54138.png)
