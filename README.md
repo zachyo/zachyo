@@ -3,7 +3,7 @@ I am Oluwasegun Zacheus, but you can call me lunarBoy. I am a front-end Software
 
 I'm also a Blockchain enthusiast who is working towards building a career in the web3 ecosystem. I am ready to undergo training to help me acheive my goals.
 
-🤝 Let's Connect
+- 🤝 Let's Connect
 
 You can find me on these platforms:
 
@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤝 Let's Connect 
+
 -->
