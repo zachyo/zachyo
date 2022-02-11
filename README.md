@@ -10,8 +10,10 @@ You can find me on these platforms:
 
 
 LinkedIn: linkedin.com/in/zacheus-oluwasegun-08890314b
+
 Twitter: @zachy_yo
-Mail: beblessingemah@gmail.com
+
+Mail: segunzacheusi@gmail.com
 
 
 <!--
