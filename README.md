@@ -5,15 +5,14 @@ I'm also a Blockchain enthusiast who is working towards building a career in the
 
 
 ### 🤝 Let's Connect
-
 If you wish, you can find me on these platforms:
 
 
-LinkedIn :  <a href="https://www.linkedin.com/mwlite/in/zacheus-oluwasegun-08890314b" target=”_blank” rel=”noreferrer”>linkedin.com/in/zacheus-oluwasegun</a>
+•	LinkedIn :  <a href="https://www.linkedin.com/mwlite/in/zacheus-oluwasegun-08890314b" target=”_blank” rel=”noreferrer”>linkedin.com/in/zacheus-oluwasegun</a>
 
-Twitter : <a href="https://twitter.com/zachy_yo?t=ga8UmyuQ-LCCvLS_nWh1sg&s=09" target=”_blank” rel=”noreferrer”>@zachy_yo</a>
+•	Twitter : <a href="https://twitter.com/zachy_yo?t=ga8UmyuQ-LCCvLS_nWh1sg&s=09" target=”_blank” rel=”noreferrer”>@zachy_yo</a>
 
-Mail: segunzacheusi@gmail.com
+•	Mail: segunzacheusi@gmail.com
 
 
 <!--
