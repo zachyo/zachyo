@@ -59,7 +59,7 @@ If you wish, you can find me on these platforms:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachyo&theme=radical&show_icons=true)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyo&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
