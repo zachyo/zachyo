@@ -47,7 +47,7 @@ If you wish, you can find me on these platforms:
 <img src="https://user-images.githubusercontent.com/64446063/153524035-c36c4916-180e-409d-80f5-0774f9bf9c04.png" alt="my banner" height="50">
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zachyo&count_private=true&theme=tokyonight&showicons=true)]()
+[![Zacheus Oluwasegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachyo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyo&langs_count=5&theme=tokyonight)]()
 
