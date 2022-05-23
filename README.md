@@ -11,15 +11,7 @@ I'm also a Blockchain enthusiast who is working towards building a career in the
 
 ### Let's Connect 🤝
 <hr>
-<style>
-      hr {
-        width: 100%;
-        height: 0.1px;
-        margin-left: auto;
-        margin-right: auto;
-        border: 1px solid black;
-      }
-    </style>
+
 If you wish, you can find me on these platforms:
 
 
