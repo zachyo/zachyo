@@ -58,7 +58,7 @@ If you wish, you can find me on these platforms:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<a href="https://wakatime.com/badge/user/f7092828-5ece-4e0d-866c-be1e6d8e11a3/project/fba29398-278b-419b-987c-769b90b66d6a"><img src="https://wakatime.com/badge/user/f7092828-5ece-4e0d-866c-be1e6d8e11a3/project/fba29398-278b-419b-987c-769b90b66d6a.svg" alt="wakatime"></a>
 <!--
 **zachyo/zachyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
