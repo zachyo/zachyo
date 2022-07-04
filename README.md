@@ -12,7 +12,7 @@ I'm also a Blockchain Enthusiast who is working towards building a career in the
 ### Let's Connect 🤝
 <hr>
 
-If you wish, you can find me on these platforms:
+If you wish, you can connect with me on these platforms:
 
 
 
