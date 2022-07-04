@@ -5,7 +5,7 @@
 ### Hello there 👋,
 I am Oluwasegun Zacheus, but you can call me lunarBoy:zap:. I am a front-end Software Engineer learning Frontend Engineering at Altschool and I'm based in Lagos State, Nigeria 🇳🇬; specializing in building nice and scalable web apps using React Js and SASS.
 
-I'm also a Blockchain enthusiast who is working towards building a career in the web3 ecosystem. I am ready to undergo training to help me acheive my goals.
+I'm also a Blockchain Enthusiast who is working towards building a career in the web3 ecosystem. I am ready to undergo training to help me acheive my goals.
 
 <br />
 
