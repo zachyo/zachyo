@@ -58,7 +58,7 @@ If you wish, you can connect with me on these platforms:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachyo" alt="zachyo" /></a> </p>
 <!--
 **zachyo/zachyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
