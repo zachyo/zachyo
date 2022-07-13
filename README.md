@@ -59,10 +59,10 @@ If you wish, you can connect with me on these platforms:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachyo&show_icons=true&locale=en" alt="zachyo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachyo&theme=radical&show_icons=true&locale=en" alt="zachyo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachyo&" alt="zachyo" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachyo" alt="zachyo" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachyo&theme=radical&" alt="zachyo" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachyo&theme=radical" alt="zachyo" /></a> </p>
 <!--
 **zachyo/zachyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
