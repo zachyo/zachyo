@@ -55,6 +55,7 @@ If you wish, you can connect with me on these platforms:
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachyo&theme=radical&show_icons=true&locale=en" alt="zachyo" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
